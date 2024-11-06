@@ -62,4 +62,26 @@
     #logo{
         height: 100px!important;
     }
+
+    .jumbotron{
+      height: 110vh !important;
+  }
+
+  #about-text{
+    text-align: center !important;
+  }
+
+  #about{
+    height: 125vh !important;
+  }
+
+  #about-img{
+    height: 150px !important;
+  }
+
+  #about-img-container{
+    text-align: center !important;
+    padding: 10vh 0;
+  }
+
 }
